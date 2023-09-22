@@ -1,0 +1,26 @@
+.root {
+    -fx-padding: 6;
+    -fx-spacing: 6;
+}
+
+.equation-text {
+    -fx-font-size: 24;
+}
+
+.button-grid {
+    -fx-vgap: 6;
+    -fx-hgap: 6;
+}
+
+.button {
+    -fx-max-width: 1000;
+    -fx-max-height: 1000;
+    -fx-padding: 0;
+    -fx-font-size: 24;
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+}
+
+.error-text {
+    -fx-text-fill: red;
+}
