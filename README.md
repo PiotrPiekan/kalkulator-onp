@@ -1,4 +1,4 @@
-## java-calculator
+## just-a-calculator
 
 Prosta aplikacja kalkulatora w JavaFX
 
