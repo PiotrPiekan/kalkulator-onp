@@ -1,3 +1,3 @@
 Nie ma pliku wykonywalnego. Wymagana własnoręczna kompilacja.
 
-Wyrażennie matemayczne jest przekształcane algorytmem stacji rozrządowej (shunting yard algorithm) na odwrotną notację polską.
+Wyrażennie matemayczne jest za pomocą algorytmu stacji rozrządowej (shunting yard algorithm) przekształcane na odwrotną notację polską.
