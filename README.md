@@ -1,4 +1,4 @@
-## kalkulator-onp
+## java-calculator
 
 Prosta aplikacja kalkulatora w JavaFX
 
